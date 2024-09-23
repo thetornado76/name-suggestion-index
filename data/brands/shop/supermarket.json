@@ -466,6 +466,17 @@
       }
     },
     {
+      "displayName": "ARD discount",
+      "id": "ard-271a35",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "brand": "ARD discount",
+        "brand:wikidata": "Q105102666",
+        "name": "ARD discount",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Asda",
       "id": "asda-a8278b",
       "locationSet": {"include": ["gb"]},
